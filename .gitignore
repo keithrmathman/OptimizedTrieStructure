@@ -21,3 +21,31 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+*.suo
+*.sln
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation.VC.db
+*.opendb
+*.psess
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation/Debug/Aho Cord.676482AE.tlog/CL.command.1.tlog
+*.tlog
+*.obj
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation/Debug/Aho Cordasick algorithm implimentation.pch.codeanalysis
+*.codeanalysisast
+*.idb
+*.ipch
+*.pdb
+Aho Cordasick algorithm implimentation/Debug/Aho Cordasick algorithm implimentation.ilk
+*.iobj
+Aho Cordasick algorithm implimentation/Release/Aho Cordasick algorithm implimentation.ipdb
+*.lastcodeanalysissucceeded
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation190311(1).vspx
+*.vspx
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation190219.vsp
+*.vsp
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation/Release/Aho Cordasick algorithm implimentation.pch
+*.log
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation/Debug/vc.nativecodeanalysis.all.xml
+*.xml
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation.vcxproj.user
+*.filters
+Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation/Aho Cordasick algorithm implimentation.vcxproj
