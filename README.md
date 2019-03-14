@@ -39,6 +39,8 @@ Number of words|Time to create trie
 200000 words:  | 2125ms
 ```
 
+These Benchmarks were ran when adding randomly generated strings to the trie, with a maximum string length of 100. While this may not be practial, Unless a special case occurs where a user may need to add words > length 100, This seems to cover the length range of most of the dictionary words. 
+
 I compared the times to general implementations of this same data structures, and the speedup of this code was 4-5x faster. This code takes advantage of inline functions, cache alignment,
 pointer arithmetic, etc.
 
